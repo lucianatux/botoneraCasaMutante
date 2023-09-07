@@ -1,0 +1,154 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("./3238627.jpg");
+  background-size: auto 100%; /* Establece el ancho al 100% y la altura automática */
+  background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.2
+  ); /* Cambia el valor alpha para ajustar la opacidad */
+  z-index: -1; /* Coloca el pseudo-elemento detrás del contenido */
+}
+
+/* Estilo opcional para el contenido principal */
+.content {
+  /* Agrega un margen superior para evitar que el contenido se superponga con el fondo */
+  margin-top: 100px;
+}
+
+/* Contenedor principal */
+#drum-machine {
+  background-color: #ddd3;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  max-width: 800px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+}
+
+/* Botones de sonido */
+.drum-pad {
+  background-color: #002c5b;
+  color: #eee;
+  font-size: 20px;
+  letter-spacing: 2px;
+  padding: 20px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  box-shadow: 3px 3px 2px black;
+}
+
+.drum-pad:hover {
+  background-color: #0056b3;
+  box-shadow: 3px 3px 3px rgb(255, 255, 255);
+
+}
+
+/* Panel de control */
+#control-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+/* Botón de encendido/apagado */
+.power {
+  background-color: #333d;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.power:hover {
+  background-color: #002c5b;
+}
+
+/* Control de volumen */
+.input {
+  width: 100%;
+  margin: 10px 0;
+}
+
+/* Nombre del sonido */
+h2 {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+p{
+  font-size: 18px;
+  margin: 20px 0;
+  color: #eee;
+}
+
+/* Botón de cambio de grupo de sonidos */
+.group {
+  background-color: #5c0e2d;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.group:hover {
+  background-color: #350303;
+}
+
+/* Estilos para hacer que la aplicación sea responsive */
+@media (max-width: 768px) {
+  .drum-pad {
+    font-size: 18px;
+  }
+
+  button[type="button"],
+  input[type="range"],
+  h2,
+  button[type="button"].change-group-button {
+    font-size: 14px;
+    margin: 5px;
+  }
+}
+
+.second-kit-button {
+  background-color: #2b0a61; 
+}
+
+.second-kit-button:hover {
+  background-color: #21164e; 
+}
+
+
