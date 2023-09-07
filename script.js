@@ -5,84 +5,84 @@ const firstSoundsGroup = [
       keyCode: 81,
       key: 'Q',
       description: 'Trueno',
-      url: '../assets/trueno.mp3'
+      url: './assets/trueno.mp3'
     },
     {
       id:2,
       keyCode: 87,
       key: 'W',
       description: 'Lluvia',
-      url: '../assets/lluvia.mp3'
+      url: './assets/lluvia.mp3'
     },
     {
       id:3,
       keyCode: 69,
       key: 'E',
       description: 'Neblina',
-      url: '../assets/neblina.mp3'
+      url: './assets/neblina.mp3'
     },
     {
       id:4,
       keyCode: 82,
       key: 'R',
       description: 'Viento',
-      url: '../assets/viento.mp3'
+      url: './assets/viento.mp3'
     },
     {
       id:5,
       keyCode: 65,
       key: 'A',
       description: 'Toc-toc',
-      url: '../assets/toctoc.mp3'
+      url: './assets/toctoc.mp3'
     },
     {
       id:6,
       keyCode: 83,
       key: 'S',
       description: 'Timbre',
-      url: '../assets/timbre.mp3'
+      url: './assets/timbre.mp3'
     },
     {
       id:7,
       keyCode: 68,
       key: 'D',
       description: "Subir escalera",
-      url: '../assets/subirescalera.mp3'
+      url: './assets/subirescalera.mp3'
     },
     {
       id:8,
       keyCode: 70,
       key: 'F',
       description: 'Bajar escalera',
-      url: '../assets/bajarescalera.mp3'
+      url: './assets/bajarescalera.mp3'
     },
     {
       id:9,
       keyCode: 90,
       key: 'Z',
       description: 'Ventana rota',
-      url: '../assets/ventanarota.mp3'
+      url: './assets/ventanarota.mp3'
     },
     {
       id:10,
       keyCode: 88,
       key: 'X',
       description: "Cadena inodoro",
-      url: '../assets/cadenainodoro.mp3'
+      url: './assets/cadenainodoro.mp3'
     },
     {
       id:11,
       keyCode: 67,
       key: 'C',
       description: 'Goteo',
-      url: '../assets/goteo.mp3'
+      url: './assets/goteo.mp3'
     },
     {
       id:12,
       keyCode: 86,
       key: 'V',
       description: 'Abrir puerta',
-      url: '../assets/abrirpuerta.mp3'
+      url: './assets/abrirpuerta.mp3'
     }
   ];
 
@@ -93,84 +93,84 @@ const secondSoundsGroup = [
       keyCode: 81,
       key: 'Q',
       description: 'Piedrazo a la ventana',
-      url: '../otros/piedrazoalaventana.mp3'
+      url: './otros/piedrazoalaventana.mp3'
     },
     {
       id:14,
       keyCode: 87,
       key: 'W',
       description: 'Cerrar puerta',
-      url: '../otros/cerrarpuerta.mp3'
+      url: './otros/cerrarpuerta.mp3'
     },
     {
       id:15,
       keyCode: 69,
       key: 'E',
       description: 'Empujar puerta',
-      url: '../otros/empujarpuerta.mp3'
+      url: './otros/empujarpuerta.mp3'
     },
     {
       id:16,
       keyCode: 82,
       key: 'R',
       description: 'Haciendo pis',
-      url: '../otros/haciendopis.mp3'
+      url: './otros/haciendopis.mp3'
     },
     {
       id:17,
       keyCode: 65,
       key: 'A',
       description: 'Canarios',
-      url: '../otros/canarios.mp3'
+      url: './otros/canarios.mp3'
     },
     {
       id:18,
       keyCode: 83,
       key: 'S',
       description: 'Calandria',
-      url: '../otros/calandria.mp3'
+      url: './otros/calandria.mp3'
     },
     {
       id:19,
       keyCode: 68,
       key: 'D',
       description: 'Otra lluvia',
-      url: '../otros/otralluvia.mp3'
+      url: './otros/otralluvia.mp3'
     },
     {
       id:20,
       keyCode: 70,
       key: 'F',
       description: 'Chiflido de viento',
-      url: '../otros/chiflidodeviento.mp3'
+      url: './otros/chiflidodeviento.mp3'
     },
     {
       id:21,
       keyCode: 90,
       key: 'Z',
       description: 'Grillos',
-      url: '../otros/grillos.mp3'
+      url: './otros/grillos.mp3'
     },
     {
       id:22,
       keyCode: 88,
       key: 'X',
       description: "Encender fogata",
-      url: '../otros/encenderfogata.mp3'
+      url: './otros/encenderfogata.mp3'
     },
     {
       id:23,
       keyCode: 67,
       key: 'C',
       description: 'Aleteo Pájaros',
-      url: '../otros/aleteopajaros.mp3'
+      url: './otros/aleteopajaros.mp3'
     },
     {
       id:24,
       keyCode: 86,
       key: 'V',
       description: 'Mosca',
-      url: '../otros/mosca.mp3'
+      url: './otros/mosca.mp3'
     }
   ];
 
