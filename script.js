@@ -4,85 +4,85 @@ const firstSoundsGroup = [
       id:1,
       keyCode: 81,
       key: 'Q',
-      description: 'Trueno',
-      url: './assets/trueno.mp3'
+      description: 'Atmosphere',
+      url: './assets/nuevos/atmosphere.mp3'
     },
     {
       id:2,
       keyCode: 87,
       key: 'W',
-      description: 'Lluvia',
-      url: './assets/lluvia.mp3'
+      description: 'Trueno',
+      url: './assets/trueno.mp3'
     },
     {
       id:3,
       keyCode: 69,
       key: 'E',
-      description: 'Neblina',
-      url: './assets/neblina.mp3'
+      description: 'Vidrios rotos',
+      url: './assets/ventanarota.mp3'
     },
     {
       id:4,
       keyCode: 82,
       key: 'R',
-      description: 'Viento',
-      url: './assets/viento.mp3'
+      description: 'Cerrojo',
+      url: './assets/nuevos/cerrojo.mp3'
     },
     {
       id:5,
       keyCode: 65,
       key: 'A',
-      description: 'Toc-toc',
-      url: './assets/toctoc.mp3'
+      description: 'Puerta principal',
+      url: './assets/nuevos/puertaprincipal.mp3'
     },
     {
       id:6,
       keyCode: 83,
       key: 'S',
-      description: 'Timbre',
-      url: './assets/timbre.mp3'
+      description: 'Cadena baño',
+      url: './assets/cadenainodoro.mp3'
     },
     {
       id:7,
       keyCode: 68,
       key: 'D',
-      description: "Subir escalera",
-      url: './assets/subirescalera.mp3'
+      description: "Abrir puerta",
+      url: './assets/abrirpuerta.mp3'
     },
     {
       id:8,
       keyCode: 70,
       key: 'F',
-      description: 'Bajar escalera',
-      url: './assets/bajarescalera.mp3'
+      description: 'Gallo',
+      url: './assets/nuevos/Gallo.mp3'
     },
     {
       id:9,
       keyCode: 90,
       key: 'Z',
-      description: 'Ventana rota',
-      url: './assets/ventanarota.mp3'
+      description: 'Canario',
+      url: './otros/canarios.mp3'
     },
     {
       id:10,
       keyCode: 88,
       key: 'X',
-      description: "Cadena inodoro",
-      url: './assets/cadenainodoro.mp3'
+      description: "Cafetera",
+      url: './assets/nuevos/cafetera.mp3'
     },
     {
       id:11,
       keyCode: 67,
       key: 'C',
-      description: 'Goteo',
-      url: './assets/goteo.mp3'
+      description: 'Chicos',
+      url: './assets/nuevos/chicos.mp3'
     },
     {
       id:12,
       keyCode: 86,
       key: 'V',
-      description: 'Abrir puerta',
-      url: './assets/abrirpuerta.mp3'
+      description: 'Timer',
+      url: './assets/nuevos/Timer.mp3'
     }
   ];
 
@@ -92,43 +92,43 @@ const secondSoundsGroup = [
       id:13,
       keyCode: 81,
       key: 'Q',
-      description: 'Piedrazo a la ventana',
-      url: './otros/piedrazoalaventana.mp3'
+      description: 'Corte corriente',
+      url: './assets/nuevos/cortecorriente.mp3'
     },
     {
       id:14,
       keyCode: 87,
       key: 'W',
-      description: 'Cerrar puerta',
-      url: './otros/cerrarpuerta.mp3'
+      description: 'Cancion triste',
+      url: './assets/nuevos/canciontriste.mp3'
     },
     {
       id:15,
       keyCode: 69,
       key: 'E',
-      description: 'Empujar puerta',
-      url: './otros/empujarpuerta.mp3'
+      description: 'Vuelve corriente',
+      url: './assets/nuevos/vuelvecorriente.mp3'
     },
     {
       id:16,
       keyCode: 82,
       key: 'R',
-      description: 'Haciendo pis',
-      url: './otros/haciendopis.mp3'
+      description: 'Puerta mamá',
+      url: './assets/nuevos/puertamama.mp3'
     },
     {
       id:17,
       keyCode: 65,
       key: 'A',
-      description: 'Canarios',
-      url: './otros/canarios.mp3'
+      description: 'Hospital',
+      url: './assets/nuevos/Hospital.mp3'
     },
     {
       id:18,
       keyCode: 83,
       key: 'S',
-      description: 'Calandria',
-      url: './otros/calandria.mp3'
+      description: 'Bebé',
+      url: './assets/nuevos/bebe.mp3'
     },
     {
       id:19,
