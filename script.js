@@ -19,7 +19,7 @@ const firstSoundsGroup = [
       keyCode: 69,
       key: 'E',
       description: 'Vidrios rotos',
-      url: './assets/ventanarota.mp3'
+      url: './assets/piedrazoalaventana.mp3'
     },
     {
       id:4,
