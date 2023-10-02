@@ -134,8 +134,8 @@ const secondSoundsGroup = [
       id:19,
       keyCode: 68,
       key: 'D',
-      description: 'Otra lluvia',
-      url: './otros/otralluvia.mp3'
+      description: 'Parto casa',
+      url: './assets/partocasa.mp3'
     },
     {
       id:20,
