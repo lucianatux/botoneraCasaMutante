@@ -120,8 +120,8 @@ const secondSoundsGroup = [
       id:17,
       keyCode: 65,
       key: 'A',
-      description: 'Hospital',
-      url: './assets/nuevos/Hospital.mp3'
+      description: 'Parto Doble',
+      url: './assets/partodoble.wav'
     },
     {
       id:18,
@@ -134,8 +134,8 @@ const secondSoundsGroup = [
       id:19,
       keyCode: 68,
       key: 'D',
-      description: 'Parto casa',
-      url: './assets/partocasa.mp3'
+      description: 'Haciendo pis',
+      url: './otros/haciendopis.mp3'
     },
     {
       id:20,
