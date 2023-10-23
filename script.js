@@ -53,36 +53,36 @@ const firstSoundsGroup = [
       id:8,
       keyCode: 70,
       key: 'F',
-      description: 'Gallo',
-      url: './assets/nuevos/Gallo.mp3'
+      description: 'Búho',
+      url: './assets/Buho.mp3'
     },
     {
       id:9,
       keyCode: 90,
       key: 'Z',
-      description: 'Canario',
-      url: './otros/canarios.mp3'
+      description: 'Arreglando',
+      url: './assets/Arreglando.mp3'
     },
     {
       id:10,
       keyCode: 88,
       key: 'X',
-      description: "Cafetera",
-      url: './assets/nuevos/cafetera.mp3'
+      description: "Gallo",
+      url: './assets/nuevos/Gallo.mp3'
     },
     {
       id:11,
       keyCode: 67,
       key: 'C',
-      description: 'Chicos',
-      url: './assets/nuevos/chicos.mp3'
+      description: 'Canario',
+      url: './otros/canarios.mp3'
     },
     {
       id:12,
       keyCode: 86,
       key: 'V',
-      description: 'Timer',
-      url: './assets/nuevos/Timer.mp3'
+      description: 'Gallina',
+      url: './assets/Gallina.mp3'
     }
   ];
 
@@ -92,85 +92,85 @@ const secondSoundsGroup = [
       id:13,
       keyCode: 81,
       key: 'Q',
-      description: 'Corte corriente',
-      url: './assets/nuevos/cortecorriente.mp3'
+      description: 'Cafetera',
+      url: './assets/nuevos/cafetera.mp3'
     },
     {
       id:14,
       keyCode: 87,
       key: 'W',
-      description: 'Cancion triste',
-      url: './assets/nuevos/canciontriste.mp3'
+      description: 'Chicos',
+      url: './assets/nuevos/chicos.mp3'
     },
     {
       id:15,
       keyCode: 69,
       key: 'E',
-      description: 'Vuelve corriente',
-      url: './assets/nuevos/vuelvecorriente.mp3'
+      description: 'Timer',
+      url: './assets/nuevos/Timer.mp3'
     },
     {
       id:16,
       keyCode: 82,
       key: 'R',
-      description: 'Puerta mamá',
-      url: './assets/nuevos/puertamama.mp3'
+      description: 'Corte corriente',
+      url: './assets/nuevos/cortecorriente.mp3'
     },
     {
       id:17,
       keyCode: 65,
       key: 'A',
-      description: 'Parto Doble',
-      url: './assets/partodoble.wav'
+      description: 'Canción triste',
+      url: './assets/nuevos/canciontriste.mp3'
     },
     {
       id:18,
       keyCode: 83,
       key: 'S',
-      description: 'Bebé',
-      url: './assets/nuevos/bebe.mp3'
+      description: 'Vuelve corriente',
+      url: './assets/nuevos/vuelvecorriente.mp3'
     },
     {
       id:19,
       keyCode: 68,
       key: 'D',
-      description: 'Haciendo pis',
-      url: './otros/haciendopis.mp3'
+      description: 'Puerta mamá',
+      url: './assets/nuevos/puertamama.mp3'
     },
     {
       id:20,
       keyCode: 70,
       key: 'F',
-      description: 'Chiflido de viento',
-      url: './otros/chiflidodeviento.mp3'
+      description: 'Doble Parto',
+      url: './assets/dobleparto.wav'
     },
     {
       id:21,
       keyCode: 90,
       key: 'Z',
-      description: 'Grillos',
-      url: './otros/grillos.mp3'
+      description: 'Haciendo pis',
+      url: './otros/haciendopis.mp3'
     },
     {
       id:22,
       keyCode: 88,
       key: 'X',
-      description: "Encender fogata",
-      url: './otros/encenderfogata.mp3'
+      description: "Chiflido de viento",
+      url: './otros/chiflidodeviento.mp3'
     },
     {
       id:23,
       keyCode: 67,
       key: 'C',
-      description: 'Aleteo Pájaros',
-      url: './otros/aleteopajaros.mp3'
+      description: 'Grillos',
+      url: './otros/grillos.mp3'
     },
     {
       id:24,
       keyCode: 86,
       key: 'V',
-      description: 'Mosca',
-      url: './otros/mosca.mp3'
+      description: 'Encender fogata',
+      url: './otros/encenderfogata.mp3'
     }
   ];
 
